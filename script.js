@@ -11,10 +11,13 @@ if (age > 18){
             {window.location = "https://youtu.be/xvFZjo5PgG0"}
         }if(secretCode === "overRide"){
             window.location = "index3.0.html"
+        }if(secretCode === "misa is me"){
+            alert('if you found this your really epic cause i told no one about this so you can keep it secret of you can tell everyone you just found BIG secret')
         }else{
             alert("you are soooooooooooooooooooooooooooooooo epik B)")
         }
     }else{
          alert("HA I KNEW IT YOU ARE A LIAR AND A SCOUNDREAL! YOU SHOULD BE ASHAMED FOR LIEING ABOUT YOUR AGE")
+         window.location = ("index4.0.html")
     }
 }
