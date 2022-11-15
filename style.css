@@ -1,0 +1,46 @@
+body {
+    background-color: #393E46;
+}
+.Box {
+color: #8EC3B0;
+position: relative;
+left: 900px;
+top: 300px;
+}
+h3 {
+    color: #8EC3B0;
+    position: relative;
+    left: 820px;
+    top: 280px;
+    }
+    .Logo {
+        color:  #FFAE6D;
+    }
+    h4 {
+      color: #8EC3B0;  
+    }
+    p {
+        color: #8EC3B0;
+        position: relative;
+        left: 510px;
+        top: 550px;
+    }
+    .button {
+        position: relative;
+        left: 920px;
+        top: 550px;
+    }
+    .bod {
+        background-color: #DEF5E5;
+    }
+    .mail {
+        position: relative;
+        left: 800px;
+        top: 300px;
+    }
+    .word {
+        color: #393E46;
+        position: relative;
+        left: 300px;
+        top: 400px;
+    }
